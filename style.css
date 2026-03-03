@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+/* ===== 2026 Light Color Palette ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 :root {
   --primary: #1e293b;
   --accent: #e85d75;
@@ -16,6 +20,10 @@
   --shadow-lg: 0 12px 48px rgba(30, 41, 59, 0.12);
 }
 
+<<<<<<< HEAD
+=======
+/* ===== Base ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 * {
   box-sizing: border-box;
   margin: 0;
@@ -41,7 +49,11 @@ span {
   color: var(--accent);
 }
 
+<<<<<<< HEAD
 /* Top Bar */
+=======
+/* ===== Top Bar ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .top-bar {
   background: var(--primary);
   color: rgba(255, 255, 255, 0.85);
@@ -50,7 +62,11 @@ span {
   letter-spacing: 0.5px;
 }
 
+<<<<<<< HEAD
 /*  Navbar  */
+=======
+/* ===== Navbar ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .navbar {
   background: var(--bg);
   border-bottom: 1px solid var(--border);
@@ -114,7 +130,11 @@ span {
   font-weight: 700;
 }
 
+<<<<<<< HEAD
 /* Hero  */
+=======
+/* ===== Hero ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .hero {
   background: linear-gradient(135deg, var(--bg-cream) 0%, #fce7f3 50%, #e0f2fe 100%);
   padding: 70px 0 50px;
@@ -287,7 +307,11 @@ span {
   color: var(--accent);
 }
 
+<<<<<<< HEAD
 /*  Buttons */
+=======
+/* ===== Buttons ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .btn-primary-custom {
   background: var(--accent);
   color: #fff;
@@ -344,7 +368,11 @@ span {
   color: #fff;
 }
 
+<<<<<<< HEAD
 /* SectionTitle */
+=======
+/* ===== Section Title ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .section-title {
   font-size: 2.2rem;
   color: var(--primary);
@@ -365,7 +393,11 @@ span {
   border-radius: 2px;
 }
 
+<<<<<<< HEAD
 /* Categories  */
+=======
+/* ===== Categories ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .cat-card {
   border-radius: 20px;
   overflow: hidden;
@@ -416,7 +448,11 @@ span {
   opacity: 0.8;
 }
 
+<<<<<<< HEAD
 /* Filter Tabs  */
+=======
+/* ===== Filter Tabs ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .filter-tabs {
   display: flex;
   gap: 10px;
@@ -449,7 +485,11 @@ span {
   font-weight: 600;
 }
 
+<<<<<<< HEAD
 /* Products */
+=======
+/* ===== Products ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .bg-soft {
   background: var(--bg-soft);
 }
@@ -600,7 +640,11 @@ span {
   font-size: 0.75rem;
 }
 
+<<<<<<< HEAD
 /* Promo Banner  */
+=======
+/* ===== Promo Banner ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .promo-banner {
   background: linear-gradient(135deg, var(--primary) 0%, #0f172a 100%);
   color: #fff;
@@ -622,7 +666,11 @@ span {
   color: var(--gold);
 }
 
+<<<<<<< HEAD
 /*  Newsletter */
+=======
+/* ===== Newsletter ===== */
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
 .newsletter {
   background: var(--bg-cream);
   border-top: 1px solid var(--border);
@@ -954,6 +1002,10 @@ span {
   background: var(--bg);
   font-size: 0.9rem;
   line-height: 1.7;
+<<<<<<< HEAD
 }
 
 /* end */
+=======
+}
+>>>>>>> a185f6b779add42252d2fd3e3625cdf6fd71fd50
