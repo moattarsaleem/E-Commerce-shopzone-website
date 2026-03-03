@@ -1,4 +1,3 @@
-/* ===== 2026 Light Color Palette ===== */
 :root {
   --primary: #1e293b;
   --accent: #e85d75;
@@ -17,7 +16,6 @@
   --shadow-lg: 0 12px 48px rgba(30, 41, 59, 0.12);
 }
 
-/* ===== Base ===== */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -43,7 +41,7 @@ span {
   color: var(--accent);
 }
 
-/* ===== Top Bar ===== */
+/* Top Bar */
 .top-bar {
   background: var(--primary);
   color: rgba(255, 255, 255, 0.85);
@@ -52,7 +50,7 @@ span {
   letter-spacing: 0.5px;
 }
 
-/* ===== Navbar ===== */
+/*  Navbar  */
 .navbar {
   background: var(--bg);
   border-bottom: 1px solid var(--border);
@@ -116,7 +114,7 @@ span {
   font-weight: 700;
 }
 
-/* ===== Hero ===== */
+/* Hero  */
 .hero {
   background: linear-gradient(135deg, var(--bg-cream) 0%, #fce7f3 50%, #e0f2fe 100%);
   padding: 70px 0 50px;
@@ -289,7 +287,7 @@ span {
   color: var(--accent);
 }
 
-/* ===== Buttons ===== */
+/*  Buttons */
 .btn-primary-custom {
   background: var(--accent);
   color: #fff;
@@ -346,7 +344,7 @@ span {
   color: #fff;
 }
 
-/* ===== Section Title ===== */
+/* SectionTitle */
 .section-title {
   font-size: 2.2rem;
   color: var(--primary);
@@ -367,7 +365,7 @@ span {
   border-radius: 2px;
 }
 
-/* ===== Categories ===== */
+/* Categories  */
 .cat-card {
   border-radius: 20px;
   overflow: hidden;
@@ -418,7 +416,7 @@ span {
   opacity: 0.8;
 }
 
-/* ===== Filter Tabs ===== */
+/* Filter Tabs  */
 .filter-tabs {
   display: flex;
   gap: 10px;
@@ -451,7 +449,7 @@ span {
   font-weight: 600;
 }
 
-/* ===== Products ===== */
+/* Products */
 .bg-soft {
   background: var(--bg-soft);
 }
@@ -602,7 +600,7 @@ span {
   font-size: 0.75rem;
 }
 
-/* ===== Promo Banner ===== */
+/* Promo Banner  */
 .promo-banner {
   background: linear-gradient(135deg, var(--primary) 0%, #0f172a 100%);
   color: #fff;
@@ -624,7 +622,7 @@ span {
   color: var(--gold);
 }
 
-/* ===== Newsletter ===== */
+/*  Newsletter */
 .newsletter {
   background: var(--bg-cream);
   border-top: 1px solid var(--border);
@@ -957,3 +955,5 @@ span {
   font-size: 0.9rem;
   line-height: 1.7;
 }
+
+/* end */
